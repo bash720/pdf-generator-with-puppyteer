@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^4.0.12",
+    "handlebars": "^4.3.0",
     "mustache-express": "^1.2.8",
     "puppeteer": "^1.17.0"
   }
